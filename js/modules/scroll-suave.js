@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 export default class ScrollSuave {
   constructor(links, options) {
     this.linksInternos = document.querySelectorAll(links);
